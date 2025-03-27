@@ -7,3 +7,7 @@ def lstrip():
             continue
         else: #if its anything else it will break
             break
+
+word = input("Enter any word or numbers with leading spaces: ")
+
+print(word)
